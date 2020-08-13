@@ -12,7 +12,8 @@ A liteweight implementation of a LiDAR visualization and simulation code. The co
 
 The code use the Numpy and Scipy libraries. All necessary functions used for the computation can be found in the **helperComputationFunctions_lite.py** script.
 
-[Image here]
+
+![Screenshot_lite](images/liteSim.PNG)
 
 
 # LiDARBladeSimulation Heavy
@@ -21,7 +22,7 @@ A more indepth version of the lite simulation, containing a better animation imp
 
 The code use the Numpy and Scipy libraries.
 
-[Image here]
+![Screenshot_heavy](images/heavySim.PNG)
 
 
 # LiDARMovementSimulation
@@ -37,4 +38,4 @@ Example usage:
 
 The code use the Numpy and Scipy libraries.
 
-[Image here]
+![Screenshot_scanning](images/scanningSim.PNG)
